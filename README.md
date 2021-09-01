@@ -1,8 +1,8 @@
-###About
+### About
 
 Template Displays your unique work in a template that is fully compatible with languages that support the right-hand side of the text. With this template, you can change the mode feature to day or night as you wish.
 
-###The Features
+### The Features
 - Day and night mode feature.
 - The pop-up message if the data transmission process was performed using Ajax, where the [Notiflix](https://www.notiflix.com/ "Notiflix") library is used.
 
